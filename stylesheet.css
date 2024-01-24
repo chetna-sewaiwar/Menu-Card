@@ -1,0 +1,164 @@
+.img{
+    background-image: url("desert1.jpg ");
+    /* background-repeat: no-repeat; */
+    background-size: 100%;
+    width: 99%;
+    height: 2000px;
+    border:10px solid green ;
+    border-style: groove;
+}
+
+.box{
+    display:flex;
+}
+
+
+.a{
+    width: 350px;
+    height: 50px;
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 20px;
+    color: aliceblue;
+    margin:20px ;
+    font-size:22px;
+    padding: 30px;
+}
+
+.b{
+    width: 400px;
+    height:30px ;
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 30px;
+    color: aliceblue;
+    margin-left:-100px ;
+    margin-top:28px;
+    padding: 10px;
+    font-size: 22px;
+}
+
+.c{
+    width: 350px;
+    height:  90px;
+    background-color: black;
+    border: 5px solid red;
+    border-radius: 20px;
+    color: aliceblue;
+    margin-left: 250px;
+    margin-top: 10px;
+    font-size: 22px;
+    padding: 20px;
+}
+
+.second{
+    display: flex;
+}
+
+.circle{
+    width: 250px;
+    height: 250px;
+    background-color:cadetblue;
+    border: 7px solid gray;
+    border-radius: 50%;
+    margin-left:200px ;
+    margin-top: 150px;
+    text-align: center;
+    text-decoration: underline;
+    padding-top: 80px;
+    padding-left:30px;
+    padding-right:30px;
+}
+
+span{
+    
+}
+
+.dought{
+    width: 300px;
+    height: 600px;
+    background-color: aliceblue;
+    margin-left:100px ;
+    margin-top: 50px;
+    border: 5px dashed red;
+}
+
+form{
+    text-align: center;
+}
+
+.menu{
+    width: 300px;
+    height: 50px;
+    background-color: black;
+    border: 5px solid red;
+    border-radius:30px ;
+    color: aliceblue;
+    font-size: larger;
+    font-weight: bolder;
+    text-align: center;
+    padding-top:15px ;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-left:400px ;
+    margin-top: 50px;
+}
+.list{
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: space-around;
+    /* margin: 30px; */
+}
+.list1{
+    width: 300px;
+    height: 400px;
+    background-color: cadetblue;
+    border: 2px solid green;
+    border-radius:25px ;
+    margin: 25px;
+}
+
+.list2{
+    width: 300px;
+    height: 400px;
+    background-color: cadetblue;
+    border: 2px solid green;
+    border-radius:25px ;
+    margin: 25px;
+}
+
+.list3{
+    width: 300px;
+    height: 400px;
+    background-color: cadetblue;
+    border: 2px solid green;
+    border-radius:25px ;
+    margin: 25px;
+}
+
+.list4{
+    width: 300px;
+    height: 400px;
+    background-color: cadetblue;
+    border: 2px solid green;
+    border-radius:25px ;
+    margin: 25px;
+}
+
+.list5{
+    width: 300px;
+    height: 400px;
+    background-color: cadetblue;
+    border: 2px solid green;
+    border-radius:25px ;
+    margin: 25px;
+}
+
+.list6{
+    width: 300px;
+    height: 400px;
+    background-color: cadetblue;
+    border: 2px solid green;
+    border-radius:25px ;
+    margin: 25px;
+}
